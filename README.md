@@ -1,4 +1,3 @@
-# code-completion-gpt2
 # GPT-2 Code Completion using CodeXGLUE
 
 ## Overview
