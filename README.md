@@ -299,9 +299,9 @@ Interested in building practical AI applications, language models, data-driven s
 
 - GitHub: https://github.com/SaiNanduVajhala/code-completion-gpt2
 - Kaggle: https://www.kaggle.com/code/vajhalasainandu/code-completion-gpt2
-
+- HuggingFace: https://huggingface.co/Sai-Nandu/Code-Completion-using-GPT-2-CodeXGLUE
 ---
 
 ## License
 
-This project is licensed under the Apache 2.0 License.
+This project is licensed under the MIT license.
